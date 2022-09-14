@@ -44,6 +44,24 @@
   <img src="https://streak-stats.demolab.com/?user=ljarendse&theme=highcontrast" alt="ljarendse" />
 </div>
 
+<!--https://github.com/DiniFarb/codewars_readme_stats-->
+<!--![Codewars](https://github.r2v.ch/codewars?user=オサム&name=true&top_languages=true&stroke=%23BB432C)-->
+<div align="center">
+  <a href="https://www.codewars.com/users/%E3%82%AA%E3%82%B5%E3%83%A0">
+    <img src="https://github.r2v.ch/codewars?user=オサム&name=true&top_languages=true&stroke=%23BB432C" alt="codewarscard"/>
+  </a>
+</div>
+
+
+<!--https://github.com/JacobLinCool/LeetCode-Stats-Card-->
+<!--![Leetcode Stats](https://leetcard.jacoblin.cool/LJArendse?ext=activity?theme=dark)-->
+<div align="center">
+  <a href="https://leetcode.com/LJArendse/">
+    <img src="https://leetcard.jacoblin.cool/LJArendse?ext=activity?theme=dark" alt="leetcodecard"/>
+  </a>
+</div>
+
+
 <h2 align="center">Latest Project Contributions</h2>
 
 <div align="center">
@@ -63,5 +81,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gameaischool2021members&repo=change&theme=merko" alt="change"/>
   </a>
 </div>
+
+
 
 
