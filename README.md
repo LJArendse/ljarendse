@@ -54,10 +54,10 @@
 
 
 <!--https://github.com/JacobLinCool/LeetCode-Stats-Card-->
-<!--![Leetcode Stats](https://leetcard.jacoblin.cool/LJArendse?ext=activity?theme=dark)-->
+<!--![Leetcode Stats](https://leetcard.jacoblin.cool/LJArendse?theme=dark?ext=activity)-->
 <div align="center">
   <a href="https://leetcode.com/LJArendse/">
-    <img src="https://leetcard.jacoblin.cool/LJArendse?ext=activity?theme=dark" alt="leetcodecard"/>
+    <img src="https://leetcard.jacoblin.cool/ljarendse?theme=dark&ext=activity" alt="leetcodecard"/>
   </a>
 </div>
 
