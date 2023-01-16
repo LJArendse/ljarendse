@@ -34,10 +34,10 @@
   <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="150"/>
 </div>
 
-<div align="center"> 
+<!--<div align="center">--> 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ljarendse&show_icons=true&theme=merko)-->
- <img src="https://github-readme-stats.vercel.app/api?username=ljarendse&show_icons=true&theme=merko" alt="ljarendse" />
-</div>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=ljarendse&show_icons=true&theme=merko" alt="ljarendse" />--> 
+<!--</div>-->
 
 <div align="center">
 <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=ljarendse&theme=highcontrast))](https://git.io/streak-stats)-->
@@ -62,25 +62,25 @@
 </div>
 
 
-<h2 align="center">Latest Project Contributions</h2>
+<!--<h2 align="center">Latest Project Contributions</h2>-->
 
-<div align="center">
-  <a href="https://github.com/ganyariya/gym-md">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ganyariya&repo=gym-md&theme=merko" alt="gym-md"/>
-  </a>
-</div>
+<!--<div align="center">-->
+<!--  <a href="https://github.com/ganyariya/gym-md">-->
+<!--    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ganyariya&repo=gym-md&theme=merko" alt="gym-md"/>-->
+<!--  </a>-->
+<!--</div>-->
 
-<div align="center">
-  <a href="https://github.com/awsdocs/aws-cloudformation-user-guide">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=awsdocs&repo=aws-cloudformation-user-guide&theme=merko" alt="aws-cloudformation-user-guide"/>
-  </a>
-</div>
+<!--<div align="center">-->
+<!--  <a href="https://github.com/awsdocs/aws-cloudformation-user-guide">-->
+<!--    <img src="https://github-readme-stats.vercel.app/api/pin/?username=awsdocs&repo=aws-cloudformation-user-guide&theme=merko" alt="aws-cloudformation-user-guide"/>-->
+<!--  </a>-->
+<!--</div>-->
 
-<div align="center">
-  <a href="https://github.com/gameaischool2021members/change">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gameaischool2021members&repo=change&theme=merko" alt="change"/>
-  </a>
-</div> 
+<!--<div align="center">-->
+<!--  <a href="https://github.com/gameaischool2021members/change">-->
+<!--    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gameaischool2021members&repo=change&theme=merko" alt="change"/>-->
+<!--  </a>-->
+<!--</div> -->
 
 
 
