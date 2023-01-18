@@ -34,10 +34,10 @@
   <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="150"/>
 </div>
 
-<!--<div align="center">--> 
+<div align="center">
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ljarendse&show_icons=true&theme=merko)-->
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=ljarendse&show_icons=true&theme=merko" alt="ljarendse" />--> 
-<!--</div>-->
+<img src="https://github-readme-stats.vercel.app/api?username=ljarendse&show_icons=true&theme=merko" alt="ljarendse" />
+</div>
 
 <div align="center">
 <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=ljarendse&theme=highcontrast))](https://git.io/streak-stats)-->
