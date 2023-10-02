@@ -57,7 +57,7 @@
 <!--![Leetcode Stats](https://leetcard.jacoblin.cool/LJArendse?theme=dark?ext=activity)-->
 <div align="center">
   <a href="https://leetcode.com/LJArendse/">
-    <img src="https://leetcard.jacoblin.cool/ljarendse?theme=dark&ext=heatmap" alt="leetcodecard"/>
+    <img src="https://leetcard.jacoblin.cool/ljarendse?theme=dark&ext=activity" alt="leetcodecard"/>
   </a>
 </div>
 
