@@ -48,7 +48,7 @@
 <!--![Codewars](https://github.r2v.ch/codewars?user=オサム&name=true&top_languages=true&stroke=%23BB432C)-->
 <div align="center">
   <a href="https://www.codewars.com/users/%E3%82%AA%E3%82%B5%E3%83%A0">
-    <img src="https://github.r2v.ch/codewars?user=オサム&name=true&top_languages=true&stroke=%23BB432C" alt="codewarscard"/>
+    <img src="https://github.r2v.ch/codewars?user=エニグマ&name=true&top_languages=true&stroke=%23BB432C" alt="codewarscard"/>
   </a>
 </div>
 
