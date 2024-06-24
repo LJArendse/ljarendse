@@ -24,9 +24,6 @@
    <a href="https://leetcode.com/LJArendse/">
     <img src="https://img.shields.io/badge/leetcode-grey?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
   </a>
-    <a href="https://www.hackerrank.com/ljarendse">
-    <img src="https://img.shields.io/badge/hackerrank-grey?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hackerrank Badge"/>
-  </a>
 </div>
 <hr>
 
