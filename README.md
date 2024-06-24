@@ -18,7 +18,7 @@
     <a href="https://stackoverflow.com/users/11346616/ljarendse">
     <img src="https://img.shields.io/badge/stackoverflow-grey?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="stackoverflow Badge"/>
   </a>
-  <a href="https://www.codewars.com/users/L.J.">
+  <a href="https://www.codewars.com/users/_enigma_">
     <img src="https://img.shields.io/badge/codewars-grey?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars Badge"/>
   </a>
    <a href="https://leetcode.com/LJArendse/">
@@ -44,8 +44,8 @@
 <!--https://github.com/DiniFarb/codewars_readme_stats-->
 <!--![Codewars](https://github.r2v.ch/codewars?user=オサム&name=true&top_languages=true&stroke=%23BB432C)-->
 <div align="center">
-  <a href="https://www.codewars.com/users/L.J.">
-    <img src="https://github.r2v.ch/codewars?user=L.J.&name=true&top_languages=true&stroke=%23BB432C" alt="codewarscard"/>
+  <a href="https://www.codewars.com/users/_enigma_">
+    <img src="https://github.r2v.ch/codewars?user=_enigma_&name=true&top_languages=true&stroke=%23BB432C" alt="codewarscard"/>
   </a>
 </div>
 
