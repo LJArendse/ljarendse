@@ -6,17 +6,11 @@
 
 <hr>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/ljarendse/">
-    <img src="https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
   <a href="https://github.com/ljarendse">
     <img src="https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
-  <a href="https://twitter.com/ljarendse">
-    <img src="https://img.shields.io/badge/X-grey?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
-  </a>
-    <a href="https://stackoverflow.com/users/11346616/ljarendse">
-    <img src="https://img.shields.io/badge/stackoverflow-grey?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="stackoverflow Badge"/>
+  <a href="https://www.linkedin.com/in/ljarendse/">
+    <img src="https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.codewars.com/users/_enigma_">
     <img src="https://img.shields.io/badge/codewars-grey?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars Badge"/>
